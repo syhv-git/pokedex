@@ -1,4 +1,4 @@
-homework9: Pokemon.o arceus.o charizard.o mewtwo.o main.o
+pokedex: Pokemon.o arceus.o charizard.o mewtwo.o main.o
 	g++ -o pokedex Pokemon.o arceus.o charizard.o mewtwo.o main.o
 
 clear:
