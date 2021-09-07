@@ -12,6 +12,8 @@
 //
 //  DESCRIPTION: Abstract parent class of Pokemon
 //
+//  Copyright (C) 2021, Scott Vore
+//
 ****************************************************************/
 
 #ifndef POKEMON_H
