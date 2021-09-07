@@ -29,6 +29,6 @@ public:
     virtual void printData() = 0;
 protected:
     string type;
-    float height; /* in cm */
+    float height; // in cm
 };
 #endif
